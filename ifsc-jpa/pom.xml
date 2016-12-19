@@ -8,12 +8,11 @@
 		<relativePath>../</relativePath>
 	</parent>
 	<artifactId>ifsc-jpa</artifactId>
+	<name>ifsc-jpa</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
-			<version>4.3.11.Final</version>
 		</dependency>
 	</dependencies>
-	<name>ifsc-jpa</name>
 </project>
